@@ -29,7 +29,7 @@ def main():
 
         print("\nThe list from number is : {0}".format(print_list))
     except Exception:
-        print("\nInvalid Input!")
+        print("\nInvalid Input.")
     finally:
         print("\nDone.")
 
